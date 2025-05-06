@@ -1,0 +1,17 @@
+{
+    "factoryName": {
+        "value": "shanmukdatafact123"
+    },
+    "AzureBlobStorage1_connectionString": {
+        "value": "DefaultEndpointsProtocol=https;AccountName=shanmukstorage12345;AccountKey=D+C8NANfP5SpqlbEZjbDjE1N+ygAY/FNDpyGlH2r07iQeJL+QqjoR3eiXDuHNmErcCy3SIwPTpwc+AStOnmA2w==;EndpointSuffix=core.windows.net"
+    },
+    "sourcePath": {
+        "value": "inputcontainer/sample1.csv"
+    },
+    "sinkPath": {
+        "value": "outputcontainer"
+    },
+    "fileType": {
+        "value": "csv"
+    }
+}
